@@ -1,7 +1,7 @@
 bokeh-stats
 ===========
 
-Profiling GitHub members who have starred ContinuumIO/bokeh.
+Profiling GitHub members who have starred [ContinuumIO/bokeh](https://github.com/ContinuumIO/bokeh).
 
 These data were downloaded thanks to Jeremy Singer-Vine's [astronomer](https://github.com/jsvine/astronomer), a really nifty tool.
 
